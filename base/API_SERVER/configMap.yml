@@ -3,4 +3,4 @@ kind: ConfigMap
 metadata:
   name: api-config
 data:
-  DATABASE_URI: "mysql://admin:TestingDB123@fitness.cq174vfsoqja.us-east-1.rds.amazonaws.com/fitness"
+  DATABASE_URI: "mysql://USER_NAME:PASSWORD@HOST/fitness"
